@@ -8,10 +8,10 @@ git clone https://github.com/elfinsanjaya12/E-Raport.git :
 $ git clone https://github.com/elfinsanjaya12/E-Raport.git
 ```
 
-cd Server-Fabric-Store
+cd E-Raport
 
 ```bash
-$ cd Server-Fabric-Store
+$ cd E-Raport
 ```
 
 npm install
